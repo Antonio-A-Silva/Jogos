@@ -1,5 +1,5 @@
 # Projeto: Jogos em Python
-<p>O objetivo deste projeto é colocar em prática o que foi aprendido durante o curso
+<p>O objetivo deste projeto é colocar em prática o que foi aprendido durante em aula
 
 ### Contribuição
 Contribuições são sempre bem-vindas! Para contribuir, siga os seguintes passos:
